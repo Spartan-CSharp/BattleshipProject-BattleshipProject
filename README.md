@@ -14,3 +14,5 @@ For Lesson 6, Console App Creation Part 1, there were no additional tasks.
 For Lesson 7, Console App Creation Part 2, we are to fill in the methods that have not been implemented. In the end, we should have a working application.
 
 For Lesson 8, Wire Up the Logic, we are to thoroughly test the application for bugs. Try to break it in various ways and then identify ways to fix it if you find a way to break it.
+
+For Lesson 9, Debugging and Testing, we are to pick one new feautre (a small one) and add it to the application. Make sure to plan the change and test it after it is complete.

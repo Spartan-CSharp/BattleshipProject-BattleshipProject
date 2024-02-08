@@ -171,6 +171,7 @@ namespace BattleshipLibrary
 				if ( ship.SpotLetter == row.ToUpper() && ship.SpotNumber == column )
 				{
 					isahit = true;
+					ship.Status = GRIDSPOTSTATUS.Sunk;
 				}
 			}
 
