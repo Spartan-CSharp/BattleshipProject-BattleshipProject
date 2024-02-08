@@ -8,3 +8,5 @@ For Lesson 3, W & O Steps, we are to try finishing up the planning phase (U, L, 
 For Lesson 4,U, L, & D Steps, we are to create a Class Library with our data models. After we have completed it, we can compare it to what we do in the next lesson.
 
 For Lesson 5, Class Library Creation, we are to create a Console project in our solution and add in the methods the Console App will need.
+
+For Lesson 7, Console App Creation Part 2, we are to fill in the methods that have not been implemented. In the end, we should have a working application.
