@@ -41,8 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\GridSpot.cs" />
-    <Compile Include="Models\PlayerModel.cs" />
+    <Compile Include="Models\Enum.cs" />
+    <Compile Include="Models\GridSpotModel.cs" />
+    <Compile Include="Models\PlayerInfoModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
