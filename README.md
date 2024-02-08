@@ -4,3 +4,5 @@ The homework from Module 4, Battleship Project, of the Complete Foundation in C#
 For Lesson 2, WOULD Framework, we are to try going through the first two steps of the WOULD framework on the Battleship Lite Application.
 
 For Lesson 3, W & O Steps, we are to try finishing up the planning phase (U, L, and D) on our own before we do it together in the next video.
+
+For Lesson 4,U, L, & D Steps, we are to create a Class Library with our data models. After we have completed it, we can compare it to what we do in the next lesson.
