@@ -6,3 +6,5 @@ For Lesson 2, WOULD Framework, we are to try going through the first two steps o
 For Lesson 3, W & O Steps, we are to try finishing up the planning phase (U, L, and D) on our own before we do it together in the next video.
 
 For Lesson 4,U, L, & D Steps, we are to create a Class Library with our data models. After we have completed it, we can compare it to what we do in the next lesson.
+
+For Lesson 5, Class Library Creation, we are to create a Console project in our solution and add in the methods the Console App will need.

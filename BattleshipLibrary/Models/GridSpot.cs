@@ -1,4 +1,4 @@
-﻿namespace BattleshipLibrary
+﻿namespace BattleshipLibrary.Models
 {
 	public class GridSpot
 	{
