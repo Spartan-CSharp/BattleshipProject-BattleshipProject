@@ -9,4 +9,8 @@ For Lesson 4,U, L, & D Steps, we are to create a Class Library with our data mod
 
 For Lesson 5, Class Library Creation, we are to create a Console project in our solution and add in the methods the Console App will need.
 
+For Lesson 6, Console App Creation Part 1, there were no additional tasks.
+
 For Lesson 7, Console App Creation Part 2, we are to fill in the methods that have not been implemented. In the end, we should have a working application.
+
+For Lesson 8, Wire Up the Logic, we are to thoroughly test the application for bugs. Try to break it in various ways and then identify ways to fix it if you find a way to break it.

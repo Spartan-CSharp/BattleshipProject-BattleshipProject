@@ -65,17 +65,6 @@ namespace BattleshipLite
 
 			bool isahit = GameLogic.IdentifyShotResult(opponent, row, column);
 
-			if ( isahit )
-			{
-				Console.WriteLine("That was a hit!");
-				_ = Console.ReadLine();
-			}
-			else
-			{
-				Console.WriteLine("That was a miss.");
-				_ = Console.ReadLine();
-			}
-
 			GameLogic.MarkShotResult(activePlayer, row, column, isahit);
 		}
 
@@ -89,8 +78,6 @@ namespace BattleshipLite
 
 		private static void DisplayShotGrid(PlayerInfoModel activePlayer)
 		{
-			Console.Clear();
-
 			string currentrow = activePlayer.ShotGrid[0].SpotLetter;
 
 			foreach ( GridSpotModel gridspot in activePlayer.ShotGrid )
@@ -118,8 +105,6 @@ namespace BattleshipLite
 					Console.Write(" ?  ");
 				}
 			}
-
-			Console.WriteLine();
 		}
 
 		private static void WelcomeMessage()
